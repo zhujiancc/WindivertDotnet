@@ -1,5 +1,5 @@
 ﻿using System.Runtime.Versioning;
-using WindivertDotnet;
+using WindivertNet;
 
 namespace System.Runtime.InteropServices
 {

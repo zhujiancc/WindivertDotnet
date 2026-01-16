@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.Versioning;
 using System.Text;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// 表示过滤器

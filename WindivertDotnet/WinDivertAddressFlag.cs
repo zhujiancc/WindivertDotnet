@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// WinDivertAddress标记

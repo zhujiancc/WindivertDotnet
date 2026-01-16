@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Net;
 using System.Net.Sockets;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// SockAddress结构体

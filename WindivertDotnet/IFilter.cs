@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Sockets;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// 定义filter的属性

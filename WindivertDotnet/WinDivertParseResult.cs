@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Net.Sockets;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// 表示包解析结果

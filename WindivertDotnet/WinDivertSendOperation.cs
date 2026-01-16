@@ -2,7 +2,7 @@
 using System.Runtime.Versioning;
 using System.Threading;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     [SupportedOSPlatform("windows")]
     sealed class WinDivertSendOperation : WinDivertOperation

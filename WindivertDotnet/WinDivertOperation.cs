@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Threading.Tasks.Sources;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// Windivert控制器

@@ -3,7 +3,7 @@ using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// 表示WinDivert地址信息

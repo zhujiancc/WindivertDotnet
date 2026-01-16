@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.32912.340
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11408.92 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindivertDotnet", "WindivertDotnet\WindivertDotnet.csproj", "{070A2A01-6E1E-4094-9433-C62E65DBD2FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindivertNet", "WindivertDotnet\WindivertNet.csproj", "{070A2A01-6E1E-4094-9433-C62E65DBD2FD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "App\App.csproj", "{9EA97509-CBC0-414E-9C76-283AAA379347}"
 EndProject

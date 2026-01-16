@@ -1,4 +1,4 @@
-﻿namespace WindivertDotnet
+﻿namespace WindivertNet
 {
     /// <summary>
     /// 参数枚举

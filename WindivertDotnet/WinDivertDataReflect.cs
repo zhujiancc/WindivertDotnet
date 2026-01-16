@@ -1,4 +1,4 @@
-﻿namespace WindivertDotnet
+﻿namespace WindivertNet
 {
     /// <summary>
     /// WinDivert信息

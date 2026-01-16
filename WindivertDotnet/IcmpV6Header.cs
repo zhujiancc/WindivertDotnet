@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// IcmpV6头结构

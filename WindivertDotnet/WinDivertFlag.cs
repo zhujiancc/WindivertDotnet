@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// WinDivert方式标志

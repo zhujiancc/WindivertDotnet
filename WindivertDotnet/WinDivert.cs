@@ -7,7 +7,7 @@ using System.Runtime.Versioning;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// 表示WinDivert的操作对象
@@ -112,7 +112,7 @@ namespace WindivertDotnet
                 flags = WinDivertFlag.Sniff | WinDivertFlag.RecvOnly;
             }
 
-            var compileFilter = WindivertDotnet.Filter.Compile(filter, layer);
+            var compileFilter = WindivertNet.Filter.Compile(filter, layer);
 
             if (Enum.IsDefined(typeof(WinDivertLayer), layer) == false)
             {
@@ -132,7 +132,7 @@ namespace WindivertDotnet
                 throw new Win32Exception();
             }
 
-            this.Filter = WindivertDotnet.Filter.Format(filter, layer);
+            this.Filter = WindivertNet.Filter.Format(filter, layer);
             this.Layer = layer;
             this.Priority = priority;
             this.Flags = flags;

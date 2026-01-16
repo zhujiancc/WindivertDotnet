@@ -1,5 +1,5 @@
 using System.IO;
-using WindivertDotnet;
+using WindivertNet;
 
 namespace System.Runtime.InteropServices
 {
@@ -9,14 +9,14 @@ namespace System.Runtime.InteropServices
         {
             if (Environment.Is64BitProcess)
             {
-                LoadResource("WindivertDotnet.v222.x64.WinDivert64.sys");
-                LoadResource("WindivertDotnet.v222.x64.WinDivert.dll", true);
+                LoadResource("WindivertNet.v222.x64.WinDivert64.sys");
+                LoadResource("WindivertNet.v222.x64.WinDivert.dll", true);
             }
             else
             {
-                LoadResource("WindivertDotnet.v222.x86.WinDivert32.sys");
-                LoadResource("WindivertDotnet.v222.x86.WinDivert64.sys");
-                LoadResource("WindivertDotnet.v222.x86.WinDivert.dll", true);
+                LoadResource("WindivertNet.v222.x86.WinDivert32.sys");
+                LoadResource("WindivertNet.v222.x86.WinDivert64.sys");
+                LoadResource("WindivertNet.v222.x86.WinDivert.dll", true);
             }
         }
 

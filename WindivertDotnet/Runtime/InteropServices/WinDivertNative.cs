@@ -1,6 +1,6 @@
 using System.Runtime.Versioning;
 using System.Threading;
-using WindivertDotnet;
+using WindivertNet;
 
 namespace System.Runtime.InteropServices
 {

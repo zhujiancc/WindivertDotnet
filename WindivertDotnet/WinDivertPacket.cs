@@ -9,7 +9,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Runtime.Versioning;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// 表示WinDivert的数据包

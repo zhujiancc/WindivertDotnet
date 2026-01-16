@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace WindivertDotnet
+namespace WindivertNet
 {
     /// <summary>
     /// id或序列号生成器

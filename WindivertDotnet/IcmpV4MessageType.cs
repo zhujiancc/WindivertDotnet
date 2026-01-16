@@ -1,4 +1,4 @@
-﻿namespace WindivertDotnet
+﻿namespace WindivertNet
 {
     /// <summary>
     /// IcmpV4消息类型

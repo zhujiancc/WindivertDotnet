@@ -1,4 +1,4 @@
-﻿namespace WindivertDotnet
+﻿namespace WindivertNet
 {
     /// <summary>
     /// 事件类型
